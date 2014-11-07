@@ -11,4 +11,5 @@ It seems to be, `en` and `ru` localizations are reference files to start.
 We are waiting for pull-requests.
 
 ## New characters
-Also, we are about to add more characters in keyboard set. If you have one, please write us: info (at) chars.cc
+Also, we are about to add more characters in keyboard set.
+If you have one, please write us: info (at) chars.cc
