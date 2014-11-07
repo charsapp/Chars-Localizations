@@ -1,0 +1,19 @@
+"App Name" = "文字";
+
+"Copied" = "コピーされた";
+
+"Menu Clear" = "消す";
+"Menu Cancel" = "取り消す";
+
+"Version" = "バージョン";
+"Privacy Policy" = "プライバシーポリシー";
+
+"Rating Title" = "文字を評定してください";
+"Rating Text" = "気に入るか、気に入らないか、\nあなたの正直な評価のおかげで\nこの文字のアプリを\n改善することができます。\nありがとう！";
+"Rating Button Rate" = "文字を評定する";
+"Rating Button Later" = "多分後で";
+"Rating Button No Thanks" = "遠慮し";
+
+"Keyboard Title" = "文字のキーボード";
+"Keyboard Text" = "このアプリケーションにだけでなく、\niOSのどこにでも特殊な文字を\n入力することができます。\n\nデバイスのキーボードの設定に\n新たな文字のキーボードを\n追加してみてください。";
+"Keyboard Confirmation" = "良し";
