@@ -1,0 +1,19 @@
+"App Name" = "iSimboli";
+
+"Copied" = "copiati"; // sono copiati
+
+"Menu Clear" = "Cancellare";
+"Menu Cancel" = "Revocare";
+
+"Version" = "Versione";
+"Privacy Policy" = "Privacy";
+
+"Rating Title" = "Valutate iSimboli";
+"Rating Text" = "Se ti piace iSimboli\n(o no), il tuo commento può\nсmigliorarli. Grazie!"; // Вместо miglolarli можно поставить miglorare l'app.
+"Rating Button Rate" = "Valutare iSimboli";
+"Rating Button Later" = "Magari dopo";
+"Rating Button No Thanks" = "No, Grazie";
+
+"Keyboard Title" = "Tastiera dei simboli";
+"Keyboard Text" = "Puoi stampare i simboli\nnon solo in applicazione,\nma anche dovunque in iOS.\n\nAggiungi una nuova tastiera\ndei simboli in Impostazioni.";
+"Keyboard Confirmation" = "Bene";
