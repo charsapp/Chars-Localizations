@@ -1,7 +1,7 @@
 Chars
 =====
 
-Chars.cc — iOS system-wide Unicode keyboard. It is a beautiful and native way to type everything with Unicode characters on iOS.
+[Chars.cc](http://chars.cc) — iOS system-wide Unicode keyboard. It is a beautiful and native way to type everything with Unicode characters on iOS.
 
 ## Localizations
 You are welcome to contribute Chars localization for your language!
